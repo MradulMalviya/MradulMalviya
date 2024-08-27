@@ -7,8 +7,8 @@
 - I’m looking to collaborate on Jenkins, Kubernetes, and Docker.
 - Connect with me at: <a href="https://www.linkedin.com/in/mradulmalviya/">Linkedin</a>
 - Checkout my repositories
-<a href="https://github.com/MradulMalviya/Java-Jenkins-Docker-K8">Jenkins-Docker-Kubernetes</a>
-<a href="https://github.com/MradulMalviya/Ansible">Ansible</a>
-<a href="https://github.com/MradulMalviya/Terraform">Terrafrom</a>
+<a href="https://github.com/MradulMalviya/Java-Jenkins-Docker-K8">Jenkins-Docker-Kubernetes</a>,
+<a href="https://github.com/MradulMalviya/Ansible">Ansible</a>,
+<a href="https://github.com/MradulMalviya/Terraform">Terrafrom</a>,
 <a href="https://github.com/MradulMalviya/Python">Python-Automations</a>
 
