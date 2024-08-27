@@ -4,7 +4,7 @@
 - Pronouns: he/him
 - I’m currently working at Capgemini, Morgan Stanely (Client)
 - I’m currently learning different DevOps tools and cloud platforms
-- I’m looking to collaborate on Jenkins, Kubernetes, and Docker.
+- I’m looking to collaborate on Infrastructure architecture & System Design.
 - Connect with me at: <a href="https://www.linkedin.com/in/mradulmalviya/">Linkedin</a>
 - Checkout my repositories
 <a href="https://github.com/MradulMalviya/Java-Jenkins-Docker-K8">Jenkins-Docker-Kubernetes</a>,
