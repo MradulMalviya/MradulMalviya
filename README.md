@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning DevOps tools
 - 👯 I’m looking to collaborate on Jenkins, Kubernetes, Docker.
 - 📫 Connect with me at: https://www.linkedin.com/in/mradulmalviya/
-- Checkout my repositories Terraform https://github.com/MradulMalviya/Ansible
+- Checkout my repositories
 <a href="https://github.com/MradulMalviya/Ansible">Ansible</a>
