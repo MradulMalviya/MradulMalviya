@@ -10,5 +10,5 @@
 <a href="https://github.com/MradulMalviya/Java-Jenkins-Docker-K8">Jenkins-Docker-Kubernetes</a>
 <a href="https://github.com/MradulMalviya/Ansible">Ansible</a>
 <a href="https://github.com/MradulMalviya/Terraform">Terrafrom</a>
-<a href="https://github.com/MradulMalviya/Python">link text</a>
-<a href="url">link text</a>
+<a href="https://github.com/MradulMalviya/Python">Python-Automations</a>
+
