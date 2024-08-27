@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm Mradul, a DevOps Engineer with 3+ years of experience working on various DevOps tools e.g. Jenkins, Kubernetes, and Docker.
+- I'm Mradul, a DevOps Engineer with 3+ years of experience working on various DevOps tools e.g. Jenkins, Kubernetes, Docker, and more.
 - Pronouns: he/him
 - I’m currently working at Capgemini, Morgan Stanely (Client)
 - I’m currently learning DevOps tools
